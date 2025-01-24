@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/TRAV/static/css/main.f5cb44c4.css",
+    "main.js": "/TRAV/static/js/main.dd3166f4.js",
+    "static/media/TravissBillz-Oloko.mp3": "/TRAV/static/media/TravissBillz-Oloko.f7465ae5e7ce70dffc19.mp3",
+    "static/media/Komko[baby_mama].mp3": "/TRAV/static/media/Komko[baby_mama].82cd50a74b620729115d.mp3",
+    "static/media/Travissbillz-Charm Bucket.mp3": "/TRAV/static/media/Travissbillz-Charm Bucket.2df31cfd1d9446bfabc7.mp3",
+    "static/media/Travissbillz-Bundle[prod_by_Landie]_(1).mp3": "/TRAV/static/media/Travissbillz-Bundle[prod_by_Landie]_(1).99e147dfa25c77cb74ed.mp3",
+    "static/media/TravissBillz-Gwetsa.mp3": "/TRAV/static/media/TravissBillz-Gwetsa.5cb7c822247940b02587.mp3",
+    "static/media/Travissbillz-_Baby_commando.mp3": "/TRAV/static/media/Travissbillz-_Baby_commando.fe13341e031c4502b66f.mp3",
+    "static/media/gwetsa.jpg": "/TRAV/static/media/gwetsa.3ff7d43f886582175f26.jpg",
+    "static/media/bundle.jpg": "/TRAV/static/media/bundle.6c4fd37633c19baba1a6.jpg",
+    "static/media/trav-bloody.jpg": "/TRAV/static/media/trav-bloody.ed9ed2289576c7e8a419.jpg",
+    "static/media/trav-w-bloody.jpg": "/TRAV/static/media/trav-w-bloody.65a722847ca9b7e1dd08.jpg",
+    "static/media/slide.jpg": "/TRAV/static/media/slide.3fd6b6a5db890ab3cd06.jpg",
+    "static/media/BandW.jpg": "/TRAV/static/media/BandW.59eefc6362fbb62a5548.jpg",
+    "static/media/oloko.jpg": "/TRAV/static/media/oloko.0484563ed0a9042032fe.jpg",
+    "static/media/komko.jpg": "/TRAV/static/media/komko.63717f53b974e20cd716.jpg",
+    "static/media/audiomack-seeklogo.png": "/TRAV/static/media/audiomack-seeklogo.e83ffbc99e410ffeeb45.png",
+    "index.html": "/TRAV/index.html",
+    "main.f5cb44c4.css.map": "/TRAV/static/css/main.f5cb44c4.css.map",
+    "main.dd3166f4.js.map": "/TRAV/static/js/main.dd3166f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5cb44c4.css",
+    "static/js/main.dd3166f4.js"
+  ]
+}
